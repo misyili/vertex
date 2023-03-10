@@ -1,0 +1,27 @@
+{
+  "id": "ec64c814",
+  "conditions": [
+    {
+      "key": "category",
+      "compareType": "includeIn",
+      "value": "CAT"
+    },
+    {
+      "key": "progress",
+      "compareType": "bigger",
+      "value": "0.3"
+    },
+    {
+      "key": "uploadSpeed",
+      "compareType": "smaller",
+      "value": "700*1024"
+    }
+  ],
+  "alias": "猫删种 160g专用 进度大于30 速度小于700k",
+  "type": "normal",
+  "priority": 0,
+  "code": "(maindata, torrent) => {\n  return false;\n}",
+  "fitTime": "20",
+  "pause": false,
+  "used": true
+}

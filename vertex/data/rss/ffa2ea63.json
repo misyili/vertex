@@ -1,0 +1,29 @@
+{
+  "clientArr": [
+    "b8709780"
+  ],
+  "enable": false,
+  "scrapeFree": false,
+  "scrapeHr": false,
+  "autoReseed": false,
+  "onlyReseed": false,
+  "maxSleepTime": "600",
+  "skipSameTorrent": false,
+  "cron": "*/6 * * * *",
+  "addCountPerHour": "600",
+  "pushNotify": false,
+  "acceptRules": [],
+  "rejectRules": [],
+  "reseedClients": [],
+  "rssUrls": [
+    "替换自己的RSS链接"
+  ],
+  "alias": "12.柠檬",
+  "clientSortBy": "uploadSpeed",
+  "uploadLimit": "0",
+  "downloadLimit": "0",
+  "id": "ffa2ea63",
+  "category": "LM",
+  "sameServerClients": [],
+  "pushTorrentFile": false
+}

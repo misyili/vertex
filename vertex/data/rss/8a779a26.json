@@ -1,0 +1,35 @@
+{
+  "clientArr": [
+    "b8709780"
+  ],
+  "enable": false,
+  "scrapeFree": false,
+  "scrapeHr": false,
+  "autoReseed": false,
+  "onlyReseed": false,
+  "maxSleepTime": "600",
+  "skipSameTorrent": false,
+  "cron": "* * * * *",
+  "addCountPerHour": "600",
+  "pushNotify": false,
+  "acceptRules": [
+    "87bf9c6e"
+  ],
+  "rejectRules": [],
+  "reseedClients": [],
+  "rssUrls": [
+    "替换自己的RSS链接"
+  ],
+  "alias": "04.TTG（需开V 或 白盒）",
+  "clientSortBy": "uploadSpeed",
+  "uploadLimit": "30",
+  "uploadLimitUnit": "MiB",
+  "downloadLimit": "0",
+  "downloadLimitUnit": "MiB",
+  "id": "8a779a26",
+  "sameServerClients": [],
+  "cookie": "uid=161485; pass=4802ee0e618c538fbd804c714684bd41; laccess=1655572817; __utmz=230798618.1655572824.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utma=230798618.518263360.1655572824.1655572824.1655577440.2; PHPSESSID=bvfoails9i7kp3m20v3jp41e54",
+  "category": "TTG",
+  "sleepTime": "",
+  "pushTorrentFile": false
+}

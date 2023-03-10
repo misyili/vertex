@@ -1,0 +1,29 @@
+{
+  "clientArr": [
+    "b8709780"
+  ],
+  "enable": false,
+  "scrapeFree": false,
+  "scrapeHr": false,
+  "autoReseed": false,
+  "onlyReseed": false,
+  "maxSleepTime": "600",
+  "skipSameTorrent": false,
+  "pushTorrentFile": false,
+  "cron": "* * * * *",
+  "addCountPerHour": "600",
+  "pushNotify": false,
+  "acceptRules": [],
+  "rejectRules": [],
+  "reseedClients": [],
+  "rssUrls": [
+    "填入自己的RSS"
+  ],
+  "alias": "09.不可说（需开V 或 白盒）",
+  "clientSortBy": "uploadSpeed",
+  "uploadLimit": "90",
+  "downloadLimit": "0",
+  "category": "SD",
+  "id": "33e7579c",
+  "sameServerClients": []
+}

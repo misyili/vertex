@@ -1,0 +1,13 @@
+{
+  "id": "b676c892",
+  "conditions": [
+    {
+      "key": "name",
+      "compareType": "contain",
+      "value": "-HHWEB"
+    }
+  ],
+  "alias": "R7",
+  "type": "normal",
+  "code": "(torrent) => {\n  return false;\n}"
+}

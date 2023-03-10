@@ -1,0 +1,19 @@
+{
+  "id": "6aefd5ae",
+  "conditions": [
+    {
+      "key": "name",
+      "compareType": "contain",
+      "value": "CHD,-UTT,QQQ,ZMAN,CrsS,HDAccess,-TOF,-MAMA,TAiPAK,taterzero,LKMJ,Wilson,Jodensai,DJUNGELVRAL,-CHECKMATE,NOELLE,白自在,mintHD,LiEFERDiENST,nemmyg,DJUNGELVRAL,DAMN,LAZERS,FKKHD,USELESS,CapBd,iFPD,OurBits,zicheying,MELBA,OPTiCAL,HDForever,FULLBRUTALiTY,CYBER,ADAMAS,TRexHD,NoScene,RAiCY,TTG,DTOne,GF44,ROOR,DROPSE,whip,nLiBRA,XLARGE,XORBiTANT,HDHome,3201,SAVASTANOS,FATSiSTERS,watchHD,HDMaN,YOP,GERUDO,Audies,playTV,SharpHD,CWAHD,MiXER,HDCLUB,SharpHD,COJONUDO,AWARDS,U2,TRUEDEF,KiFFLOM,HDMaN,PLRVRTX,-xD,-VEiL,Tux,PLRVRTX,BiTOR,HDSpace,HDCLUB,YoungCloud,-KG,TheRidges,Tasko,Positive,CONSORTiUM,-SNAKE,HDMike,TRZ,SNAHP,Hon3yHD,CtrlHD,hgking,DTone,smyd,-REGRET,PEGASUS,SAViOURHD,-REVOLT,MONUMENT,BluBlade,UNTOUCHED,Untouched,CiNEMATiC,-ARiN,HDAtmos,FiSSiON,GMB,HyperX,-DON,BluRG,HoneyG,SURCODE,UnOwNeD,OldPirate,GNR,COASTER,HiQ,QUANTiCA,PCH,Karloff,HDZone,doraemon,BDBOX,NOGRP,NiXFLiX,MTeam,SlowRaws,BeyondHD,DDN,OneHD,-ESiR,Desmond69,MiXER,Liber8,UNRELiABLE,4FR,JPN,GLiMMER,GerHD,Cinefeel,BDA,YAMG,-o0o,Audies,-Max78,-P23,HLiS,-WrZ,Shadowman,-ORCA,AmasyHD,-EXTREME,DRs,BLUEBIRD,CWAHD,GSeye,VEXHD,MBLURAYFANS,WiHD,Debaucherous,CultFilms,GMA,VEiL,Myosuki,INSECTS,iTWASNTME,WARLOCK,AdBlue,BAKED,BDarea,GUHZER,Pter,-v99,TAPAS,USA,OLDHAM,bsj780,FRA,PTHome,GORDI,HDSky,LeetHD,PublicHD,INCUBO,-403,JUNGLIST,FULLBRUTA,CEE,GiMCHi,LPCM,AdBlue,BecK,deadringer,ADC,SharpHD,iNTEGRUM,muhHD,SANKARZ,DARKRAY,AdBlue,franjhos,MACHETEKILLS,VCNTRSH,2xBD50,SLIPSTREAM,TURMOiL,HDChina,PzD,FULLSiZE,KRUPPE,deadringer,rmHD,HDMaN,Yolanda2046,BD50,(_10_),HDBEE,REFLECTiON,boboqiu82,OCULAR,BaggerInc,BRDC,B0MBARDiERS,ESP Blu,GER Blu"
+    },
+    {
+      "key": "size",
+      "compareType": "bigger",
+      "value": "1024*1024*1024*3"
+    }
+  ],
+  "code": "(torrent) => {\n  return false;\n}",
+  "alias": "R5",
+  "type": "normal",
+  "used": false
+}

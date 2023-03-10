@@ -1,0 +1,21 @@
+{
+  "id": "bcd0d3ee",
+  "conditions": [
+    {
+      "key": "completedTime",
+      "compareType": "bigger",
+      "value": "75600"
+    },
+    {
+      "key": "category",
+      "compareType": "contain",
+      "value": "BTS"
+    }
+  ],
+  "alias": "甲骨文-学校21小时删种",
+  "type": "normal",
+  "priority": 0,
+  "code": "(maindata, torrent) => {\n  return false;\n}",
+  "pause": true,
+  "used": true
+}

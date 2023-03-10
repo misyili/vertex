@@ -1,0 +1,25 @@
+{
+  "id": "08903258",
+  "conditions": [
+    {
+      "key": "trueRatio",
+      "compareType": "smaller",
+      "value": "1"
+    },
+    {
+      "key": "category",
+      "compareType": "includeIn",
+      "value": "CAT"
+    },
+    {
+      "key": "uploadSpeed",
+      "compareType": "smaller",
+      "value": "2*1024*1024"
+    }
+  ],
+  "alias": "猫删种 比率小于1 上传小于2M删除",
+  "type": "normal",
+  "priority": 0,
+  "code": "(maindata, torrent) => {\n  return false;\n}",
+  "fitTime": "60"
+}

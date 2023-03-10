@@ -1,0 +1,37 @@
+{
+  "id": "d5883753",
+  "conditions": [
+    {
+      "key": "progress",
+      "compareType": "bigger",
+      "value": "0"
+    },
+    {
+      "key": "uploadSpeed",
+      "compareType": "smaller",
+      "value": "1024*100"
+    },
+    {
+      "key": "downloadSpeed",
+      "compareType": "smaller",
+      "value": "1024*1024"
+    },
+    {
+      "key": "ratio",
+      "compareType": "bigger",
+      "value": "1.2"
+    },
+    {
+      "key": "category",
+      "compareType": "includeIn",
+      "value": "BTS,NPT"
+    }
+  ],
+  "alias": "甲骨文-分享率到1.2上传小于100K-HR",
+  "type": "normal",
+  "code": "(maindata, torrent) => {\n  return false;\n}",
+  "fitTime": "300",
+  "deleteNum": "12",
+  "used": true,
+  "pause": true
+}
